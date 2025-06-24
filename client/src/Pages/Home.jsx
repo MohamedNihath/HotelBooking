@@ -4,7 +4,7 @@ import FetureDestination from '../Components/FetureDestination'
 import ExclusiveOffer from '../Components/ExclusiveOffer'
 import Testimonial from '../Components/Testimonial'
 import NewsLetter from '../Components/NewsLetter'
-import Footer from '../Components/Footer'
+
 
 const Home = () => {
   return (

@@ -13,8 +13,8 @@ const BookIcon=()=>(
 const Navbar = () => {
     const navLinks = [
         { name: 'Home', path: '/' },
-        { name: 'Products', path: '/' },
-        { name: 'Contact', path: '/' },
+        { name: 'Hotel', path: '/rooms' },
+        { name: 'Experince', path: '/' },
         { name: 'About', path: '/' },
     ];
 
